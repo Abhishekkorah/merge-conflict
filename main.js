@@ -1,0 +1,1 @@
+var sentence = "Hello world... Having fun!!!"
